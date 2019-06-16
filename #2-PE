@@ -1,0 +1,11 @@
+  n=int(input())
+  s=0
+  f=0
+  se=1
+  for i in range(2,n):
+    	next=f+se
+   	 if(next<4000000 and next%2==0):
+       		 s=s+next
+   	 f=se
+   	 se=next
+   print(s-1)
