@@ -1,2 +1,2 @@
 # solutions-PE
-solutions 
+Solutions to problems i've solved on Project Euler
